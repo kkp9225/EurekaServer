@@ -1,0 +1,157 @@
+# Created at 2023-05-29T18:31:55.169
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+
+# Created at 2023-05-29T18:31:57.884
+Unexpected IOException with stream: 
+
+
+# Created at 2023-05-29T18:31:57.888
+Unexpected IOException with stream:   .   ____          _            __ _ _
+
+
+# Created at 2023-05-29T18:31:57.906
+Unexpected IOException with stream:  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+
+
+# Created at 2023-05-29T18:31:57.909
+Unexpected IOException with stream: ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+
+
+# Created at 2023-05-29T18:31:57.912
+Unexpected IOException with stream:  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+
+
+# Created at 2023-05-29T18:31:57.915
+Unexpected IOException with stream:   '  |____| .__|_| |_|_| |_\__, | / / / /
+
+
+# Created at 2023-05-29T18:31:57.917
+Unexpected IOException with stream:  =========|_|==============|___/=/_/_/_/
+
+
+# Created at 2023-05-29T18:31:57.922
+Unexpected IOException with stream:  :: Spring Boot ::                (v2.6.1)
+
+
+# Created at 2023-05-29T18:31:57.931
+Unexpected IOException with stream: 
+
+
+# Created at 2023-05-29T18:31:58.188
+Unexpected IOException with stream: 2023-05-29 18:31:58.184  INFO 8852 --- [           main] c.s.e.EurekaServerAppApplicationTests    : Starting EurekaServerAppApplicationTests using Java 16.0.2 on DIGIW42SLPC5096 with PID 8852 (started by KP62526 in D:\Microservices_Demo_Anand_Kulkarni\EurekaServerApp)
+
+
+# Created at 2023-05-29T18:31:58.194
+Unexpected IOException with stream: 2023-05-29 18:31:58.192  INFO 8852 --- [           main] c.s.e.EurekaServerAppApplicationTests    : No active profile set, falling back to default profiles: default
+
+
+# Created at 2023-05-29T18:32:01.915
+Unexpected IOException with stream: 2023-05-29 18:32:01.907  INFO 8852 --- [           main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=100af184-49a3-3060-8c24-966017f9c279
+
+
+# Created at 2023-05-29T18:32:09.061
+Unexpected IOException with stream: 2023-05-29 18:32:09.057  INFO 8852 --- [           main] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+
+
+# Created at 2023-05-29T18:32:12.089
+Unexpected IOException with stream: 2023-05-29 18:32:12.088  INFO 8852 --- [           main] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+
+
+# Created at 2023-05-29T18:32:12.132
+Unexpected IOException with stream: 2023-05-29 18:32:12.130  INFO 8852 --- [           main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses Jersey
+
+
+# Created at 2023-05-29T18:32:12.458
+Unexpected IOException with stream: 2023-05-29 18:32:12.456  WARN 8852 --- [           main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+
+
+# Created at 2023-05-29T18:32:13.049
+Unexpected IOException with stream: 2023-05-29 18:32:13.047  INFO 8852 --- [           main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+
+
+# Created at 2023-05-29T18:32:13.168
+Unexpected IOException with stream: 2023-05-29 18:32:13.162  INFO 8852 --- [           main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+
+
+# Created at 2023-05-29T18:32:13.171
+Unexpected IOException with stream: 2023-05-29 18:32:13.169  INFO 8852 --- [           main] com.netflix.discovery.DiscoveryClient    : Client configured to neither register nor query for data.
+
+
+# Created at 2023-05-29T18:32:13.212
+Unexpected IOException with stream: 2023-05-29 18:32:13.210  INFO 8852 --- [           main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1685365333207 with initial instances count: 0
+
+
+# Created at 2023-05-29T18:32:13.385
+Unexpected IOException with stream: 2023-05-29 18:32:13.384  INFO 8852 --- [           main] c.n.eureka.DefaultEurekaServerContext    : Initializing ...
+
+
+# Created at 2023-05-29T18:32:13.393
+Unexpected IOException with stream: 2023-05-29 18:32:13.392  WARN 8852 --- [           main] c.n.eureka.cluster.PeerEurekaNodes       : The replica size seems to be empty. Check the route 53 DNS Registry
+
+
+# Created at 2023-05-29T18:32:13.608
+Unexpected IOException with stream: 2023-05-29 18:32:13.606  INFO 8852 --- [           main] c.n.e.registry.AbstractInstanceRegistry  : Finished initializing remote region registries. All known remote regions: []
+
+
+# Created at 2023-05-29T18:32:13.642
+Unexpected IOException with stream: 2023-05-29 18:32:13.640  INFO 8852 --- [           main] c.n.eureka.DefaultEurekaServerContext    : Initialized
+
+
+# Created at 2023-05-29T18:32:14.068
+Unexpected IOException with stream: 2023-05-29 18:32:14.067  INFO 8852 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+
+
+# Created at 2023-05-29T18:32:14.187
+Unexpected IOException with stream: 2023-05-29 18:32:14.186  INFO 8852 --- [           main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application UNKNOWN with eureka with status UP
+
+
+# Created at 2023-05-29T18:32:14.241
+Unexpected IOException with stream: 2023-05-29 18:32:14.237  INFO 8852 --- [      Thread-10] o.s.c.n.e.server.EurekaServerBootstrap   : Setting the eureka configuration..
+
+
+# Created at 2023-05-29T18:32:14.244
+Unexpected IOException with stream: 2023-05-29 18:32:14.237  INFO 8852 --- [           main] c.s.e.EurekaServerAppApplicationTests    : Started EurekaServerAppApplicationTests in 19.397 seconds (JVM running for 22.892)
+
+
+# Created at 2023-05-29T18:32:14.270
+Unexpected IOException with stream: 2023-05-29 18:32:14.269  INFO 8852 --- [      Thread-10] o.s.c.n.e.server.EurekaServerBootstrap   : isAws returned false
+
+
+# Created at 2023-05-29T18:32:14.275
+Unexpected IOException with stream: 2023-05-29 18:32:14.274  INFO 8852 --- [      Thread-10] o.s.c.n.e.server.EurekaServerBootstrap   : Initialized server context
+
+
+# Created at 2023-05-29T18:32:14.279
+Unexpected IOException with stream: 2023-05-29 18:32:14.278  INFO 8852 --- [      Thread-10] c.n.e.r.PeerAwareInstanceRegistryImpl    : Got 1 instances from neighboring DS node
+
+
+# Created at 2023-05-29T18:32:14.283
+Unexpected IOException with stream: 2023-05-29 18:32:14.282  INFO 8852 --- [      Thread-10] c.n.e.r.PeerAwareInstanceRegistryImpl    : Renew threshold is: 1
+
+
+# Created at 2023-05-29T18:32:14.287
+Unexpected IOException with stream: 2023-05-29 18:32:14.286  INFO 8852 --- [      Thread-10] c.n.e.r.PeerAwareInstanceRegistryImpl    : Changing status to UP
+
+
+# Created at 2023-05-29T18:32:14.323
+Unexpected IOException: 5,1,com.spring.eureka.EurekaServerAppApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2023-05-29T18:32:14.328
+Unexpected IOException with stream: 2023-05-29 18:32:14.326  INFO 8852 --- [      Thread-10] e.s.EurekaServerInitializerConfiguration : Started Eureka Server
+
+
+# Created at 2023-05-29T18:32:15.390
+Unexpected IOException: 6,1,com.spring.eureka.EurekaServerAppApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2023-05-29T18:32:15.398
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.spring.eureka.EurekaServerAppApplicationTests,null,null,null
+
+
